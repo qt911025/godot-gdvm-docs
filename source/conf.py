@@ -9,7 +9,7 @@
 project = "GDVM"
 copyright = "2025-present Qin Tao and the Gdvm contributors"
 author = "Qin Tao and the Gdvm contributors"
-release = "0.2.0"
+release = "0.3.0"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

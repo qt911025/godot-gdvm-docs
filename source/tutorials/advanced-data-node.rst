@@ -6,7 +6,7 @@ Data Node 进阶
 
 严格型有哪些类型？
 
-在 `Variant.Type枚举 <https://docs.godotengine.org/en/4.4/classes/class_@globalscope.html#enum-globalscope-variant-type>`_ 里，
+在 `Variant.Type枚举 <https://docs.godotengine.org/en/4.5/classes/class_@globalscope.html#enum-globalscope-variant-type>`_ 里，
 大于 ``TYPE_NIL`` 小于 ``TYPE_OBJECT`` 的类型，都是严格型。
 
 可用 ``Gdvm.Utils`` 的 ``type_has_strict_data_node`` 和 ``instance_has_strict_data_node`` 判断类型或实例是否为严格型。
