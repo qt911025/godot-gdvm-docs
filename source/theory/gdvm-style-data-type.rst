@@ -9,8 +9,8 @@ GDVM风格的数据类型定义
 原生的API数据只能这么流转：
 
 .. mermaid::
-	
-	flowchart LR
+
+	graph LR
 		get_script-->is_instance_of
 		type_of-->is_instance_of
 		type_of-->type_string
