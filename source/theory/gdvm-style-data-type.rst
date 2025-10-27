@@ -10,7 +10,7 @@ GDVM风格的数据类型定义
 
 .. mermaid::
 
-	graph LR
+	flowchart LR
 		get_script-->is_instance_of
 		type_of-->is_instance_of
 		type_of-->type_string
